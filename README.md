@@ -25,4 +25,4 @@ chmod +x davin_OSV2
 ```
 
 ## 👨‍💻 Author
-Created by **Davin** (Age 8) — built, debugged, and packaged on a Chromebook!
+Created by **Davin**— built, debugged, and packaged on a Chromebook!
